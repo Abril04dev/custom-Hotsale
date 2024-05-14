@@ -340,5 +340,10 @@ button .material-symbols-outlined {
         font-size: 9px;
     }
 
+    .tex-big {
+        margin-top: 0;
+        font-size: 14px;
+    }
+
 
 }
